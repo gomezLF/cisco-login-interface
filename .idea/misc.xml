@@ -9,8 +9,9 @@
         <entry key="app/src/main/res/drawable/item_background.xml" value="0.209" />
         <entry key="app/src/main/res/drawable/login_background.xml" value="0.1965" />
         <entry key="app/src/main/res/drawable/separator_background.xml" value="0.209" />
+        <entry key="app/src/main/res/drawable/social_netwokrs_background.xml" value="0.209" />
         <entry key="app/src/main/res/drawable/social_networks_panel_background.xml" value="0.209" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
